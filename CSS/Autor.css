@@ -1,0 +1,60 @@
+body{
+  font-family: Arial, sans-serif;
+  background-image: url(../IMG/watermark.jpeg);
+  margin:0;
+  background-size: cover;
+  background-attachment: fixed;
+  background-position: center right;
+}
+
+nav{
+  padding: 15px;
+  margin-left: 150px;
+  margin-top: 25px;
+}
+
+nav a {
+   color: black;
+  background-color: lightgreen;
+  margin: 0 5px;
+  text-decoration: none;
+  font-weight: bold;
+  border: 1px solid white;
+  padding: 10px 15px;
+}
+
+a{
+  text-decoration: none;
+   border: 1px solid black;
+    padding: 10px 15px;
+    margin-bottom: 15px;
+}
+
+nav a:hover{
+  text-decoration: underline;
+}
+
+.container{
+  padding: 10px 20px 40px;
+}
+h5{
+  color: white;
+}
+img{
+  max-width: 150%%;
+  border-radius: 7px;
+  margin-top: 30px;
+  margin-left: 700px;
+  border-radius: 100%;
+  width: 180px;
+}
+
+footer{
+  background-color: revert;
+  color: white;
+  padding: 10px;
+  font-size: 0 0rew;
+}
+p{
+  color: white;
+}
